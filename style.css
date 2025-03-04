@@ -51,7 +51,7 @@
 
 .stories_section{
     display: flex;
-    width: 50%;
+    width: 30%;
     justify-content: space-between;
 }
 
@@ -221,7 +221,7 @@ footer{
 
 .post{
     width:460px;
-    margin-left: 10%;
+    margin-left: 5%;
     margin-top: 32px;
 }
 
@@ -317,4 +317,8 @@ footer{
     footer{
         display: none;
     } 
+}
+
+footer{
+    margin-right: 50px;
 }
